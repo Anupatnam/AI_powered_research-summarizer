@@ -2,8 +2,6 @@
 
 🚀 **AI_powered_research-summarizer** is a tool that extracts and summarizes **research papers** from **ArXiv PDFs** using **Ollama (Gemma 3 LLM)**. The system provides structured, downloadable summaries to help researchers and professionals quickly grasp key findings.
 
-![PDF Summarizer UI]([https://github.com/Anupatnam/AI_powered_research-summarizer/raw/main/Q&A Interface.png)](https://github.com/Anupatnam/AI_powered_research-summarizer/blob/main/Q%26A%20Interface.png)
-
 ---
 
 ## 🛠 Features
